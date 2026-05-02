@@ -1,0 +1,45 @@
+
+> jobseeker-ai-client@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m512[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m10:11:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:11:45 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m10:12:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.jsx, /src/index.css[22m
+[2m10:12:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Register.jsx, /src/index.css[22m
+[2m10:12:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/Dashboard.jsx, /src/index.css[22m
+[2m10:12:51 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Jobs.jsx, /src/index.css[22m
+[2m10:16:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/recruiter/PostJob.jsx, /src/index.css[22m
+[2m10:16:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Jobs.jsx, /src/index.css[22m
+[2m10:16:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m10:16:33 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/JobDetails.jsx, /src/index.css[22m
+[2m10:17:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/Resume.jsx, /src/index.css[22m
+[2m10:19:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:19:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/DashboardLayout.jsx, /src/index.css[22m
+[2m10:19:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m10:19:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Jobs.jsx, /src/index.css[22m
+[2m10:19:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/JobDetails.jsx, /src/index.css[22m
+[2m10:19:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.jsx, /src/index.css[22m
+[2m10:19:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Register.jsx, /src/index.css[22m
+[2m10:19:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ForgotPassword.jsx, /src/index.css[22m
+[2m10:19:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/Chatbot.jsx, /src/index.css[22m
+[2m10:19:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/SavedJobs.jsx, /src/index.css[22m
+[2m10:19:09 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/AppliedJobs.jsx, /src/index.css[22m
+[2m10:19:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.jsx, /src/index.css[22m
+[2m10:19:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/Profile.jsx, /src/index.css[22m
+[2m10:19:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/Resume.jsx, /src/index.css[22m
+[2m10:19:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/JobRecommendations.jsx, /src/index.css[22m
+[2m10:19:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/recruiter/PostJob.jsx, /src/index.css[22m
+[2m10:19:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/recruiter/ManageJobs.jsx, /src/index.css[22m
+[2m10:19:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/admin/ManageUsers.jsx, /src/index.css[22m
+[2m10:19:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/admin/ManageJobsAdmin.jsx, /src/index.css[22m
+[2m10:20:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/admin/Dashboard.jsx, /src/index.css[22m
+[2m10:20:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/recruiter/Dashboard.jsx, /src/index.css[22m
+[2m10:20:00 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/recruiter/JobApplicants.jsx, /src/index.css[22m
+[2m10:20:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/admin/Analytics.jsx, /src/index.css[22m
+[2m10:20:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/recruiter/JobApplicants.jsx, /src/index.css[22m
+[2m10:29:16 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/Resume.jsx, /src/index.css[22m
+[2m10:37:21 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/user/JobRecommendations.jsx, /src/index.css[22m
